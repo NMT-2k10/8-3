@@ -69,7 +69,7 @@ window.CUSTOM_APP_CONFIG = {
 
   // Letter content
   letter: {
-    text: "Happy Women's Day!",
+    text: "Nhân dịp ngày 8 tháng 3, em xin gửi những lời chúc tốt đẹp nhất đến cô và ba bạn nữ trong lớp. Chúc cô luôn mạnh khỏe, vui vẻ và hạnh phúc, luôn tràn đầy năng lượng để tiếp tục dạy dỗ và dìu dắt chúng em. Chúc ba bạn nữ luôn xinh đẹp, vui vẻ, học tập thật tốt và đạt được nhiều thành công. Chúc mọi người có một ngày 8/3 thật ý nghĩa và tràn đầy niềm vui. 🌷💐",
     image: "image/p31.jpg",
     caption: "❤💕💖",
   },
